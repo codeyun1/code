@@ -1,6 +1,13 @@
 # code
+## 뭘봐
+### ㅋ
 
+```c
+#include <"studio.h">
 
-개인용 파일입니다!
+int main(void) {
+   printf("개인용임")
+}
+```
 
 # 화이팅
